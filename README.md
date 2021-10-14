@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  A front-end web development student
+  A web development student
 </p>
 
 
