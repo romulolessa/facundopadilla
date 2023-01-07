@@ -27,7 +27,7 @@
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:romulo-lessa@hotmail.com'>romulo-lessa@hotmail.com</a>
+  📫 How to reach me: Barra da Tijuca, Rio de Janeiro, Brazil
 </p>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/romulolessa/romulolessa"></a>
@@ -74,8 +74,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on trainee
 - 🤔 I’m looking for help with start in the web development area
-- 📫 How to reach me: ...
-- 😄 Pronouns: Romulo Lessa or Galo 🐓
+- 📫 How to reach me:  Barra da Tijuca, Rio de Janeiro, Brazil
 - ⚡ Fun fact: play soccer, watch series or anime
 - 🌱 I’m currently learning 
 
